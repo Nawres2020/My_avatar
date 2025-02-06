@@ -25,3 +25,6 @@ In the terminal type :
 4/Open your browser and go to:
 
 http://localhost:3000
+
+## For the avatars i customize it from this website :Avataaars (https://getavataaars.com/) it will give you exactly the avatar style you specified and i added  the Avataaars API to create this exact avatar.
+
