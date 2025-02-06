@@ -10,7 +10,7 @@ Install VS Code from: https://code.visualstudio.com/
 ->  npx create-next-app@latest my-avatar-app
 
 
-![image](https://github.com/user-attachments/assets/23a5108e-50ab-412a-bdfe-7f084fe96cfa)
+![410411914-23a5108e-50ab-412a-bdfe-7f084fe96cfa](https://github.com/user-attachments/assets/9ca3e9a3-8b86-41fd-a67f-70526c452ac1)
 
 
 the project is created 
